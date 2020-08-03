@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/storeApp/static/css/main.2c8f0ad4.chunk.css",
+    "main.js": "/storeApp/static/js/main.6845d976.chunk.js",
+    "main.js.map": "/storeApp/static/js/main.6845d976.chunk.js.map",
+    "runtime-main.js": "/storeApp/static/js/runtime-main.e8aa73d5.js",
+    "runtime-main.js.map": "/storeApp/static/js/runtime-main.e8aa73d5.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/storeApp/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.96e23bfd.chunk.js": "/storeApp/static/js/2.96e23bfd.chunk.js",
+    "static/js/2.96e23bfd.chunk.js.map": "/storeApp/static/js/2.96e23bfd.chunk.js.map",
+    "index.html": "/storeApp/index.html",
+    "precache-manifest.31ed4c8ec039c0a6bdc939dff787f9e5.js": "/storeApp/precache-manifest.31ed4c8ec039c0a6bdc939dff787f9e5.js",
+    "service-worker.js": "/storeApp/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/storeApp/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.2c8f0ad4.chunk.css.map": "/storeApp/static/css/main.2c8f0ad4.chunk.css.map",
+    "static/js/2.96e23bfd.chunk.js.LICENSE.txt": "/storeApp/static/js/2.96e23bfd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8aa73d5.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.96e23bfd.chunk.js",
+    "static/css/main.2c8f0ad4.chunk.css",
+    "static/js/main.6845d976.chunk.js"
+  ]
+}
